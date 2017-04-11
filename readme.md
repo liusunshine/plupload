@@ -145,3 +145,6 @@ Copyright 2016, [Ephox](http://www.ephox.com/)
 Released under [GPLv2 License](https://github.com/moxiecode/plupload/blob/master/license.txt).
 
 We also provide [commercial license](http://www.plupload.com/commercial.php).
+
+
+图片上传插件
